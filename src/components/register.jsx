@@ -108,7 +108,7 @@ const Register = () => {
                 />
               </div>
               <MyLoadingButton loading={loading}>
-                Зарегестрироваться
+                Зарегистрироваться
               </MyLoadingButton>
             </Form>
           )}
